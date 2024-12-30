@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/cum-veritatis-quos-doloribus",
-  "version": "11.22.219",
+  "version": "11.22.220",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -479,5 +479,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/cum-veritatis-quos-doloribus/issues"
   },
-  "packageManager": "yarn@4.5.3"
+  "packageManager": "yarn@4.6.0"
 }
